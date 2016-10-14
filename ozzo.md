@@ -1,7 +1,9 @@
 # ozzo记录
 -------------------------------------
 # 安装与使用
->>> 使用Glide进行依赖包管理
+
+  > 使用Glide进行依赖包管理
+
 ```
 go get github.com/qiangxue/golang-restful-starter-kit #安装项目
 go get -u github.com/Masterminds/glide #依赖管理工具
